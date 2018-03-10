@@ -15,7 +15,8 @@ function divide(a,b){
 }
 
 function inc(n){
-  retrun n++
+  var n = 5
+  return n++
 }
 add(4,2)
 subtract(2,6)
