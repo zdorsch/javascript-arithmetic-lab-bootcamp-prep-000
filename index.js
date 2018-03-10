@@ -14,7 +14,7 @@ function divide(a,b){
   return a/b
 }
 
-function(n){
+function inc(n){
   retrun n++
 }
 add(4,2)
