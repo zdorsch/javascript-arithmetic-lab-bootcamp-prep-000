@@ -15,10 +15,10 @@ function divide(a,b){
 }
 
 function inc(n){
-  n = 5
   return n++
 }
 add(4,2)
 subtract(2,6)
 multiply(3,3)
 divide(10,5)
+inc(5)
