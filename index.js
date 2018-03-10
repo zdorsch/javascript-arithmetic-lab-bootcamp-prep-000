@@ -16,8 +16,9 @@ function divide(a,b){
 
 
 function inc(n){
-  return n+=
-}
+  return 
+  
+}  
 add(4,2)
 subtract(2,6)
 multiply(3,3)
