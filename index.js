@@ -16,4 +16,4 @@ function divide(){
 
 
 add(4,2)
-subtract(6,2)
+subtract(2,6)
